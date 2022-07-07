@@ -64,6 +64,7 @@ section#redes-sociais img:hover {
 @media (max-width: 450px) {
     section#redes-sociais {
         display: flex;
+        position: fixed;
         align-items: center;
         justify-content: center;
 
