@@ -61,3 +61,17 @@ section#redes-sociais img:hover {
     transition: transform 0.2s, border 0.2s;
 }
 
+@media (max-width: 450px) {
+    section#redes-sociais {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+
+    }
+
+    section#redes-sociais img {
+        width: 40px;
+    }
+
+}
+
