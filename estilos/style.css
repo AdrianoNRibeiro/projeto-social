@@ -43,7 +43,7 @@ iframe#tela {
 }
 
 section#redes-sociais {
-    margin-top: 560px;
+    
     display: flex;
     flex-direction: column;
     justify-content: center;
